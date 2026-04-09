@@ -25,7 +25,7 @@ Use this skill when the question is "is this *good*?" rather than "does this *wo
 
 The skill activates on:
 
-- "taste", "品味", "/taste"
+- "taste", "/taste", or the Chinese equivalent
 - Subjective quality signals: "feels off", "amateur", "overengineered", "is this good"
 - Explicit quality goals: "build X with good taste", "review the design quality"
 
@@ -63,7 +63,7 @@ The skill will appear in Claude Code's available skills automatically.
 Just ask naturally:
 
 ```
-这段代码品味如何？
+How's the taste of this code?
 ```
 
 ```
@@ -71,7 +71,7 @@ Deep review these 5 files for taste
 ```
 
 ```
-帮我重构这个组件，要有品味
+Refactor this component with good taste
 ```
 
 ```
